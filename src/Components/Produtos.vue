@@ -17,8 +17,12 @@
 <style scoped>
 
 section{
+  color: white;
     text-align: center;
-    
+    figcaption{
+      font-weight: 700;
+      padding: 20px 0;
+    }
 }
 img {
   width: 40vw;
